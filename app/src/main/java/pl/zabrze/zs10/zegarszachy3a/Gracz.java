@@ -19,6 +19,10 @@ public class Gracz {
         return dzialajacy;
     }
 
+    public int getSekundy() {
+        return sekundy;
+    }
+
     public void setDzialajacy(boolean dzialajacy) {
         this.dzialajacy = dzialajacy;
     }
